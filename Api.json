@@ -1,0 +1,58 @@
+{
+      "timeline": {
+            "name": "战争",
+            "description": ""
+      },
+      "groups": [],
+      "events": [
+            {
+                  "name": "鸦片战争",
+                  "description": "",
+                  "tagsCsv": "",
+                  "time": "1840 6 1 0 0",
+                  "group": ""
+            },
+            {
+                  "name": "太平天国",
+                  "description": "",
+                  "tagsCsv": "",
+                  "time": "1853 4 1 0 0",
+                  "group": ""
+            },
+            {
+                  "name": "辛亥革命",
+                  "description": "",
+                  "tagsCsv": "",
+                  "time": "1894 6 1 0 0",
+                  "group": ""
+            },
+            {
+                  "name": "中华民国",
+                  "description": "",
+                  "tagsCsv": "",
+                  "time": "1912 4 1 0 0",
+                  "group": ""
+            },
+            {
+                  "name": "抗日战争",
+                  "description": "",
+                  "tagsCsv": "",
+                  "time": "1931 9 1 0 0",
+                  "group": ""
+            },
+            {
+                  "name": "解放 战争",
+                  "description": "",
+                  "tagsCsv": "",
+                  "time": "1945 9 1 0 0",
+                  "group": ""
+            }
+      ],
+      "periods": [],
+      "progresses": [],
+      "statistics": [],
+      "statisticsYandexMetrika": [],
+      "statisticsGoogleAnalytics": [],
+      "reportingAPIs": [],
+      "tags": []
+}
